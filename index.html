@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>美食評論 — Food Reviews</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>美食評論</h1>
+    <p class="lead">以地區與美食類別索引的餐廳/小吃評論範例（示範：CJ 漢堡 &amp; 紫琳蒸餃）</p>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <label>地區
+        <select id="regionFilter">
+          <option value="all">全部</option>
+        </select>
+      </label>
+
+      <label>類別
+        <select id="categoryFilter">
+          <option value="all">全部</option>
+        </select>
+      </label>
+
+      <label>搜尋
+        <input id="searchInput" type="search" placeholder="輸入店名或關鍵字...">
+      </label>
+    </section>
+
+    <section id="reviews" class="grid"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>建立者：示範頁 • 可發佈到 GitHub Pages</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
