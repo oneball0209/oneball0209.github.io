@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cj-hamburger",
+    "title": "CJ BURGER / 西追漢堡",
+    "region": "桃園",
+    "category": "美式漢堡",
+    "excerpt": "BBQ秘制醬培根牛肉漢堡：麵包蓬鬆有嚼勁並帶有麵粉香氣，手打牛肉排淋上特製醬汁並不油膩，搭配蔬菜非常剛好。西追招牌4盎司手打牛肉堡：牛肉的燒烤味與醬料的酸甜形成令人驚艷的口感變化。西追炸雞與美式脆薯也表現不錯。",
+    "url": "reviews/cj-hamburger.html",
+    "rating": 4.2,
+    "address": "333 桃園市龜山區文化一路10巷42弄18-1號（近機捷長庚醫院站）",
+    "price_range": "NT$120–NT$300",
+    "hours": "每日 11:00–14:00 與 17:00-21:00",
+    "reservation": "店內位子不少，不太需要等待。"
+  },
+  {
+    "id": "zilin-dumplings",
+    "title": "紫琳蒸餃",
+    "region": "台中",
+    "category": "蒸餃",
+    "excerpt": "皮薄湯汁多，手工小籠蒸餃風味十足，適合外帶或內用。",
+    "url": "reviews/zilin-dumplings.html",
+    "rating": 4.7
+  }
+]
