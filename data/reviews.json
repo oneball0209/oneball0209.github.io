@@ -17,7 +17,7 @@
     "title": "頂好紫琳蒸餃館",
     "region": "台北",
     "category": "蒸餃",
-    "excerpt": "蒸餃皮麵香紮實、內餡鮮美；牛肉捲餅與牛肉湯表現也不錯，適合在地下美食街快速用餐。",
+    "excerpt": "蒸餃皮麵香紮實、內餡鮮美；牛肉捲餅與牛肉湯表現也不錯，值得二訪。",
     "url": "reviews/zilin-dumplings.html",
     "rating": 4.0,
     "address": "台北市大安區忠孝東路四段97號B1（頂好名店城地下美食街）",
@@ -30,7 +30,7 @@
     "title": "Purebread Bakery",
     "region": "台北",
     "category": "歐式麵包店",
-    "excerpt": "蕃茄起司佛卡夏柔軟香濃、傳統法棍外酥內軟、可頌馬芬酥脆且內餡驚豔，適合早餐與早午餐。",
+    "excerpt": "蕃茄起司佛卡夏柔軟香濃、傳統法棍外酥內軟、可頌馬芬酥脆且內餡柔順，適合早餐與早午餐。",
     "url": "reviews/purebread-bakery.html",
     "rating": 4.5,
     "address": "台北市大安區光復南路308巷21號（鄰近捷運國父紀念館站）",
@@ -51,5 +51,33 @@
     "price_range": "NT$45–NT$100",
     "hours": "11:00–18:00",
     "reservation": "無需訂位，熱門時段可能需排隊。"
+  }
+  ,
+  {
+    "id": "laoyunji",
+    "title": "老雲記餃子館（麵食館）",
+    "region": "新竹",
+    "category": "麵食館",
+    "excerpt": "半筋半肉牛肉麵麻香突出、牛筋軟爛入口即化；滷味帶有麻油香，適合作為日常午晚餐。",
+    "url": "reviews/laoyunji-noodles.html",
+    "rating": 4.5,
+    "address": "新竹市東區學府路1號（新竹建華國中附近）",
+    "price_range": "NT$60–200",
+    "hours": "11:00–14:00、17:00–20:00（星期一、日公休）",
+    "reservation": "不提供線上訂位，用餐時刻稍有人潮。"
+  }
+  ,
+  {
+    "id": "wanhua-luyutang",
+    "title": "萬華鱸魚湯",
+    "region": "台北",
+    "category": "鮮魚湯",
+    "excerpt": "鱸魚湯湯底清甜、魚肉新鮮緊實，虎皮石斑同樣表現不錯；魯肉飯意外驚豔，適合配湯享用。",
+    "url": "reviews/wanhua-luyutang.html",
+    "rating": 4.5,
+    "address": "台北市萬華區三水街78號（龍山寺廣場周遭）",
+    "price_range": "NT$100–200",
+    "hours": "08:30–19:00",
+    "reservation": "不需要，午晚餐時段內用可能需要等待。"
   }
 ]
